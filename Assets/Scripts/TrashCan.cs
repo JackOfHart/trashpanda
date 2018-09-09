@@ -20,7 +20,7 @@ public class TrashCan : MonoBehaviour {
 
     private bool IsEmpty = false;
 
-    static public float score;
+    static private float score;
     
 
     private void Awake()
