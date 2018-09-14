@@ -12,6 +12,7 @@ public class Player : MonoBehaviour {
     public float jumpHeight;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     public GameObject Cop;
     public GameObject tashCan;
     public GameObject HeldStuff;
@@ -19,6 +20,9 @@ public class Player : MonoBehaviour {
     private float distanceToCop;
     private float distancetoDrop;
     private bool DropExist = false;
+=======
+    
+>>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
 =======
     
 >>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
@@ -68,8 +72,13 @@ public class Player : MonoBehaviour {
         }
 
         
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
 
     }
 
@@ -80,6 +89,7 @@ public class Player : MonoBehaviour {
         {
             print("collide alley");
            //Camera.transform.rotation  = Quaternion.LookRotation(CameraRotate, new Vector3(0f,0f,0f));
+<<<<<<< HEAD
 <<<<<<< HEAD
            //Camera.transform.position = new Vector3(5.31f, 3, 0); 
         }
@@ -123,6 +133,9 @@ public class Player : MonoBehaviour {
             }
 
 
+=======
+           // Camera.transform.position = new Vector3(5.31f, 3, 0); 
+>>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
 =======
            // Camera.transform.position = new Vector3(5.31f, 3, 0); 
 >>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277

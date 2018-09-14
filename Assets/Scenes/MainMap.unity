@@ -2985,6 +2985,7 @@ Prefab:
       value: 3
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 114308799614229996, guid: eb30f28fd484b8a4f9d93e580fe0daae,
         type: 2}
       propertyPath: Cop
@@ -3006,6 +3007,8 @@ Prefab:
       value: 
       objectReference: {fileID: 1880881032372500, guid: 445739f7280cf1643ab2968c5c72de4a,
         type: 2}
+=======
+>>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
 =======
 >>>>>>> 29cceedd2d50863b99415b894f6e1861a58d6277
     m_RemovedComponents: []
